@@ -1,5 +1,0 @@
-Praca domowa na kartce formatu A4 o³ówkiem i linijk¹ wykonaæ projekt formularza zawieraj¹cego wszystkie lementy stosowane w formularzu.
-Formularz powinien zajmowac cala kartkê formatu A4. U góry podpisany klasa grupa. Sprawdzane bêdzie:
-zadanie 7
-projekt tabeli
-projekt formularza
